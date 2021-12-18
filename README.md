@@ -1,2 +1,2 @@
-# DigitaleSysteme
-Repository for solving assignments in Grundlagen Der Programmierung subject at Humboldt University of Berlin
+# Digitale Systeme
+Repository for solving assignments in Digitale Systeme subject at Humboldt University of Berlin
